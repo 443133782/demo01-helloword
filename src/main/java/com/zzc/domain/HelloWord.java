@@ -9,5 +9,6 @@ public class HelloWord {
         System.out.println("分支修改了 2");
         System.out.println("master修改了");
         System.out.println("push test");
+        System.out.println("push test");
     }
 }
